@@ -4,14 +4,14 @@ This uses Linux command line interface to download the song along with its lyric
 
 To get going type: 
 
-     **chmod 755 build
-      ./build**
+      chmod 755 build
+      ./build
 
 Hurray! You have setup your environment. 
 
 To listen to your favourite songs along with sing along lyrics just type:
 
-    **lyrics song play song-name**
+    lyrics song play <song-name>
     
 Enjoy!!
 
