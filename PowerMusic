@@ -1,0 +1,10 @@
+mkdir ~/Documents/lyrics
+cp lyrics.py ~/Documents/lyrics/lyrics.py
+cp download_song.py ~/Documents/lyrics/download_song.py
+sudo apt-get install python-bs4
+sudo apt-get install python-requests
+sudo apt-get install python-pip
+sudo pip install youtube-dl
+sudo apt-get install libav-tools
+sudo cp lyrics /bin/
+sudo chmod 755 /bin/lyrics
