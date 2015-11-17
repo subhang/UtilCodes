@@ -14,7 +14,7 @@ for i in soup.findAll("a",{"class":"yt-uix-sessionlink yt-uix-tile-link yt-ui-el
     link =  url+i["href"]
     break
 print "This is The link"+link
-os.system('youtube-dl -o "'+name+'.m4a" --extract-audio '+link+'-k')
+os.system('youtube-dl -o "'+name+'.m4a" --extract-audio --audio-format m4a '+link+'-k')
 if(len(sys.argv) == 3):
   if(sys.argv[2] == "play"):
     os.system("mplayer "+name+".m4a")
