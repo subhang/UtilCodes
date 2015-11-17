@@ -1,2 +1,2 @@
 # PowerMusic
-This uses Linux commandline interface to download the song along with its lyrics and play the song while showing its lyrics simultaneously with just one command.
+This uses Linux command line interface to download the song along with its lyrics and to play the song while showing its lyrics in the terminal simultaneously with just one command.
