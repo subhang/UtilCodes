@@ -8,6 +8,6 @@ sudo pip install youtube-dl
 sudo pip install -U youtube-dl
 sudo apt-get install mplayer
 sudo apt-get install libav-tools
-cd .mplayer && rm config && cp config
+cd ~/.mplayer && rm config && cp config ~/.mplayer
 sudo cp lyrics /bin/
 sudo chmod 755 /bin/lyrics
