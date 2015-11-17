@@ -5,9 +5,6 @@ import sys
 import codecs
 from bs4 import BeautifulSoup
 string = ""
-#for i in range(1,len(sys.argv)):
-#    string += sys.argv[i]
-#    string += " " 
 string = sys.argv[1]
 query = string
 name  = query
