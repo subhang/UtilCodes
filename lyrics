@@ -16,8 +16,8 @@ python lyrics.py $name
 if [ "$1" == "song" ]; then
  if [ "$2" == "play" ]; then
    echo "Playing Song"
-   python download_song.py $name play  
+   python download.py $name play  
  else
-    python download_song.py $name
+    python download.py $name
  fi
 fi
