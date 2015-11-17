@@ -14,7 +14,7 @@ soup = BeautifulSoup(a)
 for i in soup.findAll("a",{"class":" yt-uix-sessionlink     spf-link "}):
     link =  url+i["href"]
     break
-os.system('youtube-dl -o "'+name+'.m4a" --extract-audio '+link)
+os.system('youtube-dl -o "'+name+'.m4a" --extract-audio '+a)
 if(len(sys.argv) == 3):
   if(sys.argv[2] == "play"):
     os.system("mplayer "+name+".m4a")
