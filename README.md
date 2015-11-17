@@ -1,5 +1,5 @@
 # PowerMusic
-PowerMusic uses command line interface to download the song along with its lyrics and to play the song while showing its lyrics in the terminal simultaneously with just one command.
+PowerMusic uses a command line interface to download your favourite song along with its lyrics and as well playing it along with sing along lyrics in the terminal itself!!
 
 
 To get going open terminal in Linux or Mac OS X and type:
