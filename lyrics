@@ -1,4 +1,4 @@
-cd ~/Documents/lyrics/
+cd ~/Powermusic/lyrics/
 name=""
 for var in "$@"
 do
