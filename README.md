@@ -4,8 +4,8 @@ This uses Linux command line interface to download the song along with its lyric
 
 To get going type: 
 
-      chmod 755 build
-      ./build
+      chmod 755 PowerMusic
+      ./Powermusic
 
 Hurray! You have setup your environment. 
 
