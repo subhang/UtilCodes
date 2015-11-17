@@ -1,4 +1,6 @@
 mkdir ~/PowerMusic/Songs_Lyrics
+cp lyrics.py ~/PowerMusic/Songs_Lyrics/lyrics.py
+cp download.py ~/PowerMusic/Songs_Lyrics/download.py
 sudo apt-get install python-bs4
 sudo apt-get install python-requests
 sudo apt-get install python-pip
