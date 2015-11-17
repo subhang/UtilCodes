@@ -10,3 +10,4 @@ sudo apt-get install mplayer
 sudo apt-get install libav-tools
 sudo cp lyrics /bin/
 sudo chmod 755 /bin/lyrics
+cd .. && cd .mplayer && rm config && cd .. && cd PowerMusic && cp config ~/.mplayer
