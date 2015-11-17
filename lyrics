@@ -16,11 +16,9 @@ python lyrics.py $name
 if [ "$1" == "song" ]; then
  if [ "$2" == "play" ]; then
    echo "Playing Song"
-   gedit $name".txt" &
    python download_song.py $name play  
 echo "Downloading Song ......"
  else
     python download_song.py $name
  fi
 fi
-echo "Downloading Lyrics ....."
