@@ -7,7 +7,7 @@ To get going open terminal in Linux or Mac OS X and type:
       git clone https://github.com/kushal10/PowerMusic.git
       cd PowerMusic
       chmod 755 PowerMusic
-      ./Powermusic
+      ./PowerMusic
 
 Hurray! You have setup your environment. 
 
