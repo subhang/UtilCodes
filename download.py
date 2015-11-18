@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 url = "https://www.youtube.com"
 ext = "/results?search_query="
 query = sys.argv[1]
-name = query.replace("+","_")
+name = query.replace("+","")
 a = urllib2.urlopen(url+ext+query).read()
 soup = BeautifulSoup(a)
 for i in soup.findAll("a",{"class":"yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link "}):
