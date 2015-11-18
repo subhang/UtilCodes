@@ -18,12 +18,3 @@ To listen to your favourite songs along with sing along lyrics just type:
 Enjoy!!
 
 MUSIC IS LIFE !!
-
-If you face this error:
-WARNING: Your copy of avconv is outdated, update avconv to version 10-0 or newer if you encounter any errors.
-
-Do this :
-      sudo add-apt-repository ppa:mc3man/trusty-media
-      sudo apt-get update
-      sudo apt-get dist-upgrade
-      sudo apt-get install ffmpeg
