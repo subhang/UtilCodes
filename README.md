@@ -17,7 +17,8 @@ To listen to your favourite songs along with sing along lyrics just type:
     Eg : lyrics song play hello
          lyrics song play adele hello
          lyrics song play wake me up
-    
+
+PS : This command works in every directory    
 Enjoy!!
 
 MUSIC IS LIFE !!
