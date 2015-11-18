@@ -14,6 +14,9 @@ Hurray! You have setup your environment.
 To listen to your favourite songs along with sing along lyrics just type:
 
     lyrics song play <song-name>
+    Eg : lyrics song play hello
+         lyrics song play adele hello
+         lyrics song play wake me up
     
 Enjoy!!
 
