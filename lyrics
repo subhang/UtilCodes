@@ -13,8 +13,7 @@ name="$name+"
 done
 
 python lyrics.py $name
-if [ "$1" == "song" ]; then
- if [ "$2" == "play" ]; then
+if [ "$2" == "play" ]; then
    echo "Playing Song"
    python download.py $name play  
  else
