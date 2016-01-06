@@ -13,11 +13,11 @@ Hurray! You have setup your environment.
 
 To listen to your favourite songs along with sing along lyrics just type:
 
-    lyrics song play <song-name>
-    Eg : lyrics song play hello
-         lyrics song play adele hello
-         lyrics song play badtameez dil
-         lyrics song play yjhd badtameez dil
+    powermusic play <song-name>
+    Eg : powermusic play hello
+         powermusic play adele hello
+         powermusic play badtameez dil
+         powermusic play yjhd badtameez dil
 
 PS : This command works in every directory    
 Enjoy!!
