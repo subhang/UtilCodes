@@ -9,5 +9,5 @@ sudo pip install -U youtube-dl
 sudo apt-get install mplayer
 sudo apt-get install libav-tools
 sudo cp lyrics /bin/
-sudo chmod 755 /bin/lyrics
+sudo chmod 755 /bin/powermusic
 cd .. && cd .mplayer && rm config && cd .. && cd PowerMusic && cp config ~/.mplayer
